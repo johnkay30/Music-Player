@@ -1,0 +1,6 @@
+{
+  "name": "Gbedu Player",
+  "description": "A premium, professional, 100% offline music player featuring a custom equalizer, stunning dark themes, and visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
